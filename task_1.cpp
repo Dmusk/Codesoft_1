@@ -5,9 +5,7 @@
     user to guess it.Provide feedback on whether the guess is too high or
     too low until the user guesses the correct number.*/
 
-#include <iostream>
-#include <cstdlib>
-#include <ctime>
+#include <bits/stdc++.h>
 
 using namespace std;
 
